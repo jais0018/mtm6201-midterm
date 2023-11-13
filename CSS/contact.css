@@ -63,6 +63,18 @@ footer {
 }
 #newsletter-button:hover {
     background-color: #34a853;
+}    
+#social-media {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    left:100px; 
+    padding: 10px 15px;
+}
+
+.social-icon {
+    width: 30px; 
+    margin: 0 5px;
 }
 #order-button {
     display: block;
@@ -78,18 +90,6 @@ footer {
 }
 #order-button:hover {
     background-color: #7034a8;
-}    
-#social-media {
-    display: block;
-    position: fixed;
-    bottom: 20px;
-    left:100px; 
-    padding: 10px 15px;
-}
-
-.social-icon {
-    width: 30px; 
-    margin: 0 5px;
 }
 
 #copyright {
@@ -100,9 +100,10 @@ footer {
     font-size: 12px;
     margin-top: 20px;
 }
-.skip-link:focus {
-    top: 0;
-}
 #map-button:hover {
     background-color: #34a853;
 }
+.skip-link:focus {
+    top: 0;
+}
+
