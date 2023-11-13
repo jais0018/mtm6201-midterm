@@ -80,7 +80,7 @@ header {
 .social-icon {
     width: 30px; 
     margin: 0 5px;
-    animation: rotate 4s infinite linear; /* Rotation animation */
+    animation: rotate 4s infinite linear; 
 }
 
 @keyframes rotate {

@@ -14,7 +14,7 @@ header {
 }
 
 #logo {
-    width: 50px; /* Adjust the size of the logo */
+    width: 50px; 
 }
 
 #title {
@@ -29,7 +29,7 @@ header {
 }
 
 .gallery-image {
-    width: 100%; /* Each image takes up the full width of its grid cell */
+    width: 100%; 
 }
 #orderpage-button,
 #contact-button {
