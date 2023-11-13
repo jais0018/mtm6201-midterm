@@ -48,3 +48,6 @@ header {
 #contact-button {
     right: 20px;
 }
+.skip-link:focus {
+    top: 0;
+}
